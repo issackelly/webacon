@@ -34,7 +34,7 @@ Shows the help.
 
 Credits
 ---
-Issac Kelley for his proof of concept code:  
+Issac Kelly for his proof of concept code:  
 https://github.com/issackelly/wemo
 
 Craig Heffner for building Miranda UPnP:  
